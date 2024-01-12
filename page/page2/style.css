@@ -1,0 +1,140 @@
+*{
+    background-color: red;
+}
+nav{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+}
+.p :hover{
+    text-decoration: underline;
+}
+.firstNav{
+    margin-left: 100px;
+    margin-top: -18px;
+}
+.secondNav{
+    margin-left: 200px;
+    margin-top: -34px;
+}
+.thirdNav{
+    margin-left: 300px;
+    margin-top: -34px;
+}
+.fourthNav{
+    margin-left: 400px;
+    margin-top: -34px;
+}
+.img1{
+    width: 60%;
+    height: 400px;
+    margin-left: -10px;
+    margin-top: -90Px;
+}
+.firstDiv{
+    background-color: white;
+    width: 42%;
+    height: 395.59px;
+    margin-left: 59.3%;
+    margin-top: -444.7px;
+}
+.title{
+    background-color: white;
+    font-size: 45px;
+    width: 70%;
+    letter-spacing: 1px;
+    margin-left: 100px;
+}
+.des{
+    background-color: white;
+    color: darkgrey;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 70%;
+    margin-left: 100px;
+    margin-top: -30px;
+}
+.shopNow{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    letter-spacing: 10px;
+}
+#arrow:hover{
+    color: darkgrey;
+}
+.arrow{
+    background-color: white;
+    margin-left: 280px;
+    position: relative;
+    bottom: 33px;
+}
+#arrow{
+    background-color: white;
+}
+button{
+    background-color: black;
+    margin-top: 31.5px;
+    border: none;
+}
+.flechLeft{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    border: none;
+    border-color: transparent;
+}
+.flechLeft:hover{
+    background-color: #5f6769;
+}
+.flechRight{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    border: none;
+    border-color: transparent;
+    margin-left: -10px;
+}
+.flechRight:hover{
+    background-color: #5f6769;
+}
+.lastImg{
+    margin-left: 71.5%;
+    height: 310px;
+    width: 30%;
+    position: relative;
+    bottom: 624px;
+}
+.beforeLastImg{
+    margin-left: -10px;
+    position: relative;
+    bottom: 310px;
+    height: 310px;
+    width: 30%;
+}
+.secondDiv{
+    width: 42.5%;
+    height: 310px;
+    margin-left: 29.35%;
+    background-color: white;
+    margin-top: -20px;
+}
+.firstTitree{
+    background-color: white;
+    margin-left: 40px;
+    padding-top: 50px;
+    font-size: 20px;
+    font-family: Gill Sans, sans-serif;
+    letter-spacing: 6px;    
+}
+#des{
+    background-color: white;
+    color: darkgrey;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 85%;
+    margin-left: 40px;
+    line-height: 25px;
+}
